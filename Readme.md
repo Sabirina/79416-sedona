@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Sabirina S](https://up.htmlacademy.ru/htmlcss/13/user/79416).
-* Наставник: `Balabanovich Vladislav`(https://htmlacademy.ru/profile/id6394).
+* Наставник: `Balabanovich =) Vladislav`(https://htmlacademy.ru/profile/id6394).
 
 ---
 
